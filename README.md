@@ -132,10 +132,18 @@ Use o token no cabeçalho das requisições:
 Authorization: Bearer seu_token_aqui
 
 
+---
+## Imagem
+
+<img width="1896" height="987" alt="img_postman" src="https://github.com/user-attachments/assets/b73dd009-d6bd-4afa-9701-331ffe1c87b9" />
+
+
+
 ✨ Autor
 
 Vitor Carvalho
 📍 Desenvolvedor Backend | Python | Django | Django Rest Framework (DRF)
+
 
 
 
